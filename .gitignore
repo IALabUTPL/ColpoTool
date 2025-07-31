@@ -1,0 +1,46 @@
+# ==== PYTHON: ARCHIVOS TEMPORALES ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==== ENTORNOS VIRTUALES (si existieran locales) ====
+env/
+venv/
+
+# ==== DJANGO ====
+web/db.sqlite3
+web/*.log
+
+# ==== FRONTEND REACT ====
+web/frontend/node_modules/
+web/frontend/dist/
+web/frontend/*.log
+
+# ==== ELECTRON / DESKTOP (si ya no se usa puede mantenerse ignorado) ====
+desktop/node_modules/
+desktop/dist/
+desktop/dist_electron/
+desktop/*.log
+
+# ==== SISTEMA / GENERAL ====
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+
+# ==== VISUAL STUDIO CODE ====
+.vscode/
+.history/
+
+# ==== ARCHIVOS DE DISTRIBUCIÓN O BINARIOS ====
+*.exe
+*.apk
+*.zip
+*.tar.gz
+node_modules

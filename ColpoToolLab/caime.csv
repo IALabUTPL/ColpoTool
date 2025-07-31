@@ -1,0 +1,463 @@
+NombreImg,code,classification,hallazgos,Class,lesion
+Colpo_01.jpg,1473,Normal ,,0,av
+Colpo_010.jpg,1468,Normal ,,0,aw
+Colpo_0100.jpg,1464,Normal ,,0,aw
+Colpo_0101.jpg,1456,Normal ,,0,n
+Colpo_0102.jpg,1440,Normal ,,0,n
+Colpo_0103.jpg,1437,Normal ,Inflmatorio,0,n
+Colpo_0104.jpg,1430,Normal ,,0,aw
+Colpo_0105.jpg,1427,Normal ,Atrofia ,0,aw
+Colpo_0106.jpg,1422,Normal ,Atrofia ,0,aw
+Colpo_0107.jpg,1414,Anormal,LIEBG,1,aw
+Colpo_0108.jpg,1493,Anormal,LIAG (No es buena foto),1,av
+Colpo_0109.jpg,1390,Normal ,Inflmatorio,0,aw
+Colpo_011.jpg,1389,Normal ,Ectopia ,0,av
+Colpo_0110.jpg,1384,Anormal,Cancer ,1,aw
+Colpo_0111.jpg,1370,Normal ,Inflmatorio,0,p
+Colpo_0112.jpg,1346,Anormal,Cancer ,1,m
+Colpo_0113.jpg,1344,Anormal,LIEBG,1,n
+Colpo_0114.jpg,1336,Anormal,Cornificaciones ,1,p
+Colpo_012.jpg,1326,Normal ,,0,n
+Colpo_013.jpg,1324,Normal ,inflmatorio+ atrofia,0,n
+Colpo_014.jpg,1320,Normal ,,0,n
+Colpo_015.jpg,1314,Normal ,,0,aw
+Colpo_016.jpg,1308,Anormal,Inflamatorio o Cancer,1,aw
+Colpo_017.jpg,1289,Anormal,LIEBG,1,
+Colpo_018.jpg,1288,Anormal,Ectopia ,1,aw
+Colpo_019.jpg,1285,Anormal,Cancer ,1,aw
+Colpo_02.jpg,1281,Anormal,LIEAG,1,p
+Colpo_020.jpg,1279,Anormal,LIEBG,1,aw
+Colpo_021.jpg,1274,Normal ,Cuello cupulizado,0,aw
+Colpo_022.jpg,1273,Normal ,,0,m
+Colpo_023.jpg,1251,Anormal,Cancer ,1,n
+Colpo_024.jpg,1245,Normal ,,0,aw
+Colpo_025.jpg,1239,Anormal,LIBG,1,aw
+Colpo_026.jpg,1230,Normal ,,0,n
+Colpo_027.jpg,1229,Normal ,,0,m
+Colpo_028.jpg,1226,Anormal,LIEBG,1,n
+Colpo_029.jpg,1223,Anormal,Polipo,1,n
+Colpo_03.jpg,1220,Anormal,Cancer ,1,m
+Colpo_030.jpg,1204,Anormal,LIEAG,1,aw
+Colpo_031.jpg,1202,Anormal,LIEBG,1,aw
+Colpo_032.jpg,1199,Normal ,mala foto,0,m
+Colpo_033.jpg,1194,Normal ,T de cobre mala foto,0,aw
+Colpo_034.jpg,1190,Anormal,LIABG,1,aw
+Colpo_035.jpg,1179,Anormal,Cancer ,1,m
+Colpo_036.jpg,1174,Normal ,Inflamatorio,0,n
+Colpo_037.jpg,1168,Normal ,Inflamatorio,0,aw
+Colpo_038.jpg,1161,Normal ,,0,n
+Colpo_039.jpg,1154,Anormal,LIEAG,1,n
+Colpo_04.jpg,1139,Normal ,,,aw
+Colpo_040.jpg,1136,Anormal,LIEAG,,aw
+Colpo_041.jpg,1134,Normal ,,,m
+Colpo_042.jpg,1131,Normal ,,,aw
+Colpo_043.jpg,1123,Anormal,Cancer ,,n
+Colpo_044.jpg,1105,Normal ,Inflamatorio,,aw
+Colpo_045.jpg,1100,Normal ,Inflamatorio,,aw
+Colpo_046.jpg,1093,Normal ,,,n
+Colpo_047.jpg,1079,Normal ,Inflamatorio,,m
+Colpo_048.jpg,1077,Anormal,Polipo,,n
+Colpo_049.jpg,1071,Normal ,,,n
+Colpo_05.jpg,1070,Normal ,T de cobre mala foto,,m
+Colpo_050.jpg,1061,Normal ,,,aw
+Colpo_051.jpg,1059,Normal ,,,aw
+Colpo_052.jpg,1056,Normal ,Inflamatorio,,aw
+Colpo_053.jpg,1033,Normal ,Inflamatorio,,aw
+Colpo_054.jpg,1027,Normal ,,,av
+Colpo_055.jpg,1026,Normal ,Atrofia ,,m
+Colpo_056.jpg,1024,Normal ,Inlamatorio,,aw
+Colpo_057.jpg,1023,Normal ,,,aw
+Colpo_058.jpg,1019,Normal ,,,aw
+Colpo_059.jpg,1014,Normal ,,,aw
+Colpo_06.jpg,1013,Normal ,,,aw
+Colpo_060.jpg,998,Normal ,,,aw
+Colpo_061.jpg,991,Anormal,LIEAG,,m
+Colpo_062.jpg,984,Normal ,,,p
+Colpo_063.jpg,977,Normal ,Inflamatorio,,n
+Colpo_064.jpg,972,Normal ,,,aw
+Colpo_065.jpg,965,Anormal,LIABG Inflamatorio,,aw
+Colpo_066.jpg,930,Normal ,,,m
+Colpo_067.jpg,928,Normal ,,,n
+Colpo_068.jpg,921,Anormal,Cancer ,,n
+Colpo_069.jpg,920,Normal ,,,p
+Colpo_07.jpg,918,Normal ,,,n
+Colpo_070.jpg,917,Normal ,Inflamatorio,,aw
+Colpo_071.jpg,908,Normal ,mala foto,,aw
+Colpo_072.jpg,901,Anormal,LIEBG,,m
+Colpo_073.jpg,895,Normal ,mala foto,,aw
+Colpo_074.jpg,890,Normal ,,,aw
+Colpo_075.jpg,889,Normal ,,,aw
+Colpo_076.jpg,887,Normal ,mala foto,,av
+Colpo_077.jpg,880,Normal ,mala foto,,n
+Colpo_078.jpg,879,Anormal,Cancer ,,av
+Colpo_079.jpg,885,Normal ,mala foto,,aw
+Colpo_08.jpg,842,Normal ,,,n
+Colpo_080.jpg,836,Normal ,,,m
+Colpo_081.jpg,833,Anormal,LIEBG,,aw
+Colpo_082.jpg,821,Anormal,LIEAG,,n
+Colpo_083.jpg,817,Normal ,mala foto,,aw
+Colpo_084.jpg,810,Normal ,mala foto,,aw
+Colpo_085.jpg,809,Normal ,mala foto,,p
+Colpo_086.jpg,802,Normal ,,,m
+Colpo_087.jpg,791,Normal ,mala foto,,aw
+Colpo_088.jpg,787,Anormal,LIEBG,,aw
+Colpo_089.jpg,783,Normal ,mala foto,,aw
+Colpo_09.jpg,779,Normal ,,,aw
+Colpo_090.jpg,769,Normal ,Ectopia ,,aw
+Colpo_091.jpg,765,Normal ,,,aw
+Colpo_092.jpg,764,Normal ,mala foto,,n
+Colpo_093.jpg,763,Normal ,,,m
+Colpo_094.jpg,759,Normal ,mala foto,,p
+Colpo_095.jpg,745,Normal ,,,p
+Colpo_096.jpg,739,Normal ,,,aw
+Colpo_097.jpg,732,Normal ,Ectopia ,,n
+Colpo_098.jpg,727,Normal ,,,aw
+Colpo_099.jpg,725,Anormal,LIEBG,,n
+Colpo_489.jpeg,713,Normal ,,,aw
+Colpo_491.jpg,710,Normal ,candida,,p
+Colpo_492.jpg,709,Anormal,mala foto,,aw
+Colpo_494.jpg,708,Normal ,,,m
+Colpo_495.jpg,700,Normal ,,,av
+Colpo_498.jpg,685,Normal ,,,aw
+Colpo_500.jpg,683,Anormal,,,m
+Colpo_510.jpg,677,Normal ,mala foto,,m
+Colpo_511.jpg,668,Normal ,,,p
+Colpo_512.jpg,663,Normal ,,,aw
+Colpo_514.jpg,660,Anormal,mala foto,,av
+Colpo_519.jpg,653,Normal ,,,av
+Colpo_520.jpg,649,Normal ,,,aw
+Colpo_527.jpg,645,Normal ,,,aw
+Colpo_530.jpg,643,Anormal,LIEBG,,aw
+Colpo_543.jpg,641,Normal ,mala foto,,p
+Colpo_554.jpg,624,Normal ,mala foto,,aw
+Colpo_555.jpg,623,Normal ,,,n
+Colpo_565.jpg,620,Normal ,,,m
+Colpo_567.jpg,605,Anormal,LIAG,,aw
+Colpo_571.jpg,596,Normal ,mala foto,,aw
+Colpo_573.jpg,593,Anormal,Cancer ,,aw
+Colpo_575.jpg,583,Normal ,mala foto,,n
+Colpo_585.jpg,582,Normal ,,,av
+Colpo_587.jpg,580,Normal ,,,n
+Colpo_590.jpg,579,Normal ,,,aw
+Colpo_594.jpg,578,Normal ,,,n
+Colpo_598.jpg,576,Anormal,,,
+Colpo_599.jpg,562,Normal ,,,av
+Colpo_600.jpg,560,Normal ,mala foto,,
+Colpo_604.jpg,558,Normal ,,,
+Colpo_606.jpg,553,Normal ,mala foto,,n
+Colpo_617.jpg,551,Normal ,inflamatorio,,aw
+Colpo_625.jpg,550,Normal ,mala foto,,aw
+Colpo_626.jpg,536,Normal ,,,p
+Colpo_627.jpg,532,Normal ,mala foto,,aw
+Colpo_628.jpg,531,Anormal,Cancer ,,p
+Colpo_629.jpg,523,Normal ,,,aw
+Colpo_630.jpg,518,Anormal,LIEBG,,p
+Colpo_631.jpg,516,Anormal,LIEAG,,m
+Colpo_635.jpg,513,Anormal,LIEAG,,n
+Colpo_636.jpg,497,Anormal,LIEBG,,av
+Colpo_637.jpg,484,Anormal,LIEBG,,aw
+Colpo_638.jpg,481,Anormal,LIEBG,,
+Colpo_646.jpg,478,Anormal,LIEBG,,aw
+Colpo_650.jpg,471,Normal ,,,n
+Colpo_654.jpg,470,Normal ,,,n
+Colpo_661.jpg,469,Anormal,LIEBG,,aw
+Colpo_664.jpg,454,Anormal,LIEAG,,aw
+Colpo_669.jpg,446,Anormal,LIEBG,,av
+Colpo_670.jpg,441,Anormal,LIEAG,,aw
+Colpo_672.jpg,425,Anormal,LIEBG,,n
+Colpo_675.jpg,421,Normal ,,,m
+Colpo_679.jpg,416,anormal,LIEAG,,n
+Colpo_682.jpg,401,Anormal,LIEBG,,m
+Colpo_689.jpg,396,Anormal,LIEBG,,n
+Colpo_690.jpg,387,Normal ,inflamatorio,,n
+Colpo_692.jpg,384,Normal ,,,m
+Colpo_694.jpg,383,Normal ,,,n
+Colpo_695.jpg,379,Normal ,,,av
+Colpo_697.jpg,376,Normal ,,,aw
+Colpo_706.jpg,356,Anormal,LIEAG,,m
+Colpo_711.jpg,349,Normal ,,,n
+Colpo_715.jpg,346,Normal ,,,aw
+Colpo_721.jpg,338,Anormal,LIEAG,,aw
+Colpo_728.jpg,334,Normal ,inflamatorio,,aw
+Colpo_731.jpg,333,Anormal,LIEBG,,m
+Colpo_733.jpg,311,Normal ,,,aw
+Colpo_734.jpg,308,Normal ,,,aw
+Colpo_735.jpg,306,Normal ,inflamatorio,,p
+Colpo_736.jpg,298,Normal ,,,av
+Colpo_737.jpg,294,Normal ,,,m
+Colpo_740.jpg,281,Normal ,,,av
+Colpo_742.jpg,262,Anormal,,,m
+Colpo_746.jpg,254,Normal ,,,av
+Colpo_747.jpg,252,Normal ,,,aw
+Colpo_750.jpg,245,Normal ,,,p
+Colpo_752.jpg,239,Normal ,inflamatorio,,m
+Colpo_755.jpg,237,Normal ,,,n
+Colpo_757.jpg,229,Anormal,LIEBG,,m
+Colpo_758.jpg,215,Anormal,Cancer ,,
+Colpo_766.jpg,208,Normal ,,,m
+Colpo_767.jpg,205,Anormal,LIEBG,,
+Colpo_770.jpg,201,Normal ,,,
+Colpo_773.jpg,191,Anormal,LIEBG MALA FOTO,,
+Colpo_774.jpg,181,Anormal,LIEAG,,aw
+Colpo_776.jpg,180,Anormal,LIEGB,,aw
+Colpo_778.jpg,176,Normal ,inflamatorio,,n
+Colpo_780.jpg,171,Normal ,,,aw
+Colpo_782.jpg,160,Normal ,inflamatorio,,n
+Colpo_784.jpg,148,Normal ,,,aw
+Colpo_788.jpg,144,Normal ,,,n
+Colpo_796.jpg,142,Normal ,,,aw
+Colpo_799.jpg,139,Anormal,LIEBG,,aw
+Colpo_800.jpg,138,Anormal,LIEBG,,m
+Colpo_801.jpg,129,Anormal,LIEBG,,n
+Colpo_803.jpg,109,Normal ,,,aw
+Colpo_806.jpg,104,Anormal,Cancer ,,n
+Colpo_808.jpg,102,Anormal,LIEBG,,n
+Colpo_811.jpg,96,Normal ,mala foto,,n
+Colpo_812.jpg,81,Anormal,LIEBG,,aw
+Colpo_818.jpg,57,Normal ,,,n
+Colpo_820.jpg,55,Anormal,LIEBG,,aw
+Colpo_822.jpg,48,anormal,LIEBG,,
+Colpo_823.jpg,47,Normal ,,,
+Colpo_825.jpg,35,Normal ,,,av
+Colpo_828.jpg,34,Normal ,,,m
+Colpo_835.jpg,14,Anormal,LIEAG,,
+Colpo_837.jpg,13,Anormal,LIEBG,,
+Colpo_839.jpg,12,Anormal,LIEBG,,n
+Colpo_840.jpg,10,Anormal,LIEAG,,aw
+Colpo_845.jpg,7,Anormal,LIEAG,,p
+Colpo_848.jpg,0,Normal ,,,n
+Colpo_853.jpg,872,Normal ,,,n
+Colpo_864.jpg,870,Normal ,,,aw
+Colpo_866.jpg,869,Anormal,LIEBG,,aw
+Colpo_869.jpg,866,Anormal,LIEAG,,m
+Colpo_870.jpg,864,Normal ,mala foto,,aw
+Colpo_872.jpg,853,Normal ,,,aw
+Colpo_benign_0.jpg,848,Normal ,mala foto,,av
+Colpo_benign_10.jpg,845,Anormal,LIEAG,,m
+Colpo_benign_1013.jpg,840,Normal ,mala foto,,aw
+Colpo_benign_1014.jpg,839,Anormal,mala foto,,av
+Colpo_benign_1019.jpg,837,Normal ,mala foto,,aw
+Colpo_benign_102.jpg,835,Normal ,,,av
+Colpo_benign_1023.jpg,828,Anormal,LIEBG,,av
+Colpo_benign_1024.jpg,825,Anormal,LIEAG,,m
+Colpo_benign_1026.jpg,823,Normal ,POLIPO,,av
+Colpo_benign_1027.jpg,822,Anormal,LIEBG,,aw
+Colpo_benign_1033.jpg,820,Normal ,,,m
+Colpo_benign_104.jpg,818,Normal ,,,m
+Colpo_benign_1056.jpg,812,Anormal,LIEAG,,aw
+Colpo_benign_1059.jpg,811,Normal ,,,av
+Colpo_benign_1061.jpg,808,Anormal,LIEAG,,n
+Colpo_benign_1070.jpg,806,Anormal,LIEBG,,aw
+Colpo_benign_1071.jpg,803,Normal ,mala foto,,aw
+Colpo_benign_1077.jpg,801,Anormal,LIEBG,,m
+Colpo_benign_1079.jpg,800,Anormal,LIEAG,,
+Colpo_benign_109.jpg,799,Anormal,LIEBG,,n
+Colpo_benign_1093.jpg,796,Normal ,mala foto,,n
+Colpo_benign_1100.jpg,788,Anormal,LIEBG MALA FOTO,,aw
+Colpo_benign_1105.jpg,784,Anormal,LIEBG,,n
+Colpo_benign_1123.jpg,782,Anormal,LIEBG,,p
+Colpo_benign_1131.jpg,780,Anormal,LIEBG,,
+Colpo_benign_1134.jpg,778,Normal ,mala foto,,aw
+Colpo_benign_1136.jpg,776,Anormal,LIEBG,,av
+Colpo_benign_1139.jpg,774,Anormal,LIEBG,,aw
+Colpo_benign_1154.jpg,773,Normal ,,,aw
+Colpo_benign_1161.jpg,770,Normal ,inflamatorio,,n
+Colpo_benign_1168.jpg,767,Anormal,LIEBG,,m
+Colpo_benign_1174.jpg,766,Anormal,LIEBG,,aw
+Colpo_benign_1179.jpg,758,Anormal,LIEBG MALA FOTO,,m
+Colpo_benign_1190.jpg,757,Anormal,LIEBG,,m
+Colpo_benign_1194.jpg,755,Normal ,mala foto,,aw
+Colpo_benign_1199.jpg,752,Anormal,LIEAG,,n
+Colpo_benign_12.jpg,750,Normal ,,,aw
+Colpo_benign_1202.jpg,747,Normal ,,,aw
+Colpo_benign_1204.jpg,746,Normal ,,,m
+Colpo_benign_1220.jpg,742,Anormal,LIEBG MALA FOTO,,av
+Colpo_benign_1223.jpg,740,Anormal,LIEBG MALA FOTO,,aw
+Colpo_benign_1226.jpg,737,Anormal,LIEBG,,p
+Colpo_benign_1229.jpg,736,Anormal,LIEBG MALA FOTO,,av
+Colpo_benign_1230.jpg,735,Anormal,LIEBG MALA FOTO,,p
+Colpo_benign_1239.jpg,734,Anormal,LIEBG,,m
+Colpo_benign_1245.jpg,733,Anormal,LIEBG MALA FOTO,,
+Colpo_benign_1251.jpg,731,Normal ,,,aw
+Colpo_benign_1273.jpg,728,Anormal,LIEBG,,n
+Colpo_benign_1274.jpg,721,Anormal,LIEBG,,n
+Colpo_benign_1279.jpg,715,Anormal,LIEBG MALA FOTO,,
+Colpo_benign_1281.jpg,711,Anormal,LIEBG,,av
+Colpo_benign_1285.jpg,706,Normal ,,,p
+Colpo_benign_1288.jpg,697,Anormal,LIEBG,,m
+Colpo_benign_1289.jpg,695,Anormal,LIEBG,,aw
+Colpo_benign_129.jpg,694,Normal ,mala foto,,m
+Colpo_benign_13.jpg,692,Anormal,LIEBG,,m
+Colpo_benign_1308.jpg,690,Normal ,mala foto,,aw
+Colpo_benign_1314.jpg,689,Normal ,mala foto,,m
+Colpo_benign_1320.jpg,682,Normal ,mala foto,,aw
+Colpo_benign_1324.jpg,679,Anormal,LIEBG,,
+Colpo_benign_1326.jpg,675,Normal ,mala foto,,
+Colpo_benign_1336.jpg,672,Normal ,,,m
+Colpo_benign_1344.jpg,670,Normal ,mala foto,,aw
+Colpo_benign_1346.jpg,669,Anormal,LIEBG MALA FOTO,,n
+Colpo_benign_1370.jpg,664,Anormal,LIEBG,,p
+Colpo_benign_138.jpg,661,Anormal,LIEAG,,m
+Colpo_benign_1384.jpg,654,Anormal,LIEBG,,aw
+Colpo_benign_1389.jpg,650,Normal ,,,m
+Colpo_benign_139.jpg,646,Normal ,inflamatorio,,av
+Colpo_benign_1390.jpg,638,Anormal,LIEBG,,av
+Colpo_benign_1393.jpg,637,Anormal,LIEBG MALA FOTO,,n
+Colpo_benign_14.jpg,636,Anormal,LIEBG,,aw
+Colpo_benign_1414.jpg,635,Normal ,mala foto,,aw
+Colpo_benign_142.jpg,631,Anormal,LIEBG,,aw
+Colpo_benign_1422.jpg,630,Anormal,LIEBG,,p
+Colpo_benign_1427.jpg,629,Normal ,mala foto,,n
+Colpo_benign_1430.jpg,628,Anormal,LIEBG,,p
+Colpo_benign_1437.jpg,627,Anormal,LIEBG,,av
+Colpo_benign_144.jpg,626,Anormal,LIEAG,,aw
+Colpo_benign_1440.jpg,625,Normal ,mala foto,,
+Colpo_benign_1456.jpg,617,Normal ,,,
+Colpo_benign_1464.jpg,606,Normal ,,,aw
+Colpo_benign_1468.jpg,604,Normal ,inflamatorio,,aw
+Colpo_benign_1473.jpg,600,Normal ,,,m
+Colpo_benign_148.jpg,599,Anormal,LIEBG,,m
+Colpo_benign_160.jpg,598,Normal ,,,aw
+Colpo_benign_171.jpg,594,Normal ,,,av
+Colpo_benign_176.jpg,590,Anormal,LIEAG,,aw
+Colpo_benign_180.jpg,587,Anormal,LIEAG,,m
+Colpo_benign_181.jpg,585,Normal ,,,aw
+Colpo_benign_191.jpg,575,Anormal,LIEBG,,av
+Colpo_benign_201.jpg,573,Anormal,LIEBG MALA FOTO,,aw
+Colpo_benign_205.jpg,571,Anormal,LIEBG,,m
+Colpo_benign_208.jpg,567,Anormal,LEBG,,av
+Colpo_benign_215.jpg,565,Anormal,LIEAG,,m
+Colpo_benign_229.jpg,555,Normal ,POLIPO,,aw
+Colpo_benign_237.jpg,554,Anormal,LIEAG,,n
+Colpo_benign_239.jpg,543,Anormal,LIEAG,,m
+Colpo_benign_245.jpg,530,Normal ,,,av
+Colpo_benign_252.jpg,527,Normal ,,,
+Colpo_benign_254.jpg,520,Normal ,mala foto,,aw
+Colpo_benign_262.jpg,519,Normal ,,,m
+Colpo_benign_281.jpg,514,Normal ,,,aw
+Colpo_benign_294.jpg,512,Anormal,LIEBG,,av
+Colpo_benign_298.jpg,511,Anormal,LIEBG,,n
+Colpo_benign_306.jpg,510,Normal ,,,m
+Colpo_benign_308.jpg,500,Anormal,LIEAG,,aw
+Colpo_benign_311.jpg,498,Normal ,,,m
+Colpo_benign_333.jpg,495,Normal ,,,aw
+Colpo_benign_334.jpg,494,Normal ,,,m
+Colpo_benign_338.jpg,492,Normal ,,,aaw
+Colpo_benign_34.jpg,491,Anormal,LIEBG,,aw
+Colpo_benign_346.jpg,489,Normal ,,,m
+Colpo_benign_349.jpg,O114,Normal ,,,aw
+Colpo_benign_35.jpg,O113,Normal ,,,aw
+Colpo_benign_356.jpg,O112,Anormal,LIEBG,,m
+Colpo_benign_376.jpg,O111,Anormal,LIEBG,,aw
+Colpo_benign_379.jpg,O110,Anormal,LIEBG,,av
+Colpo_benign_383.jpg,O109,Anormal,LIEBG,,m
+Colpo_benign_384.jpg,O108,Normal ,,,aw
+Colpo_benign_387.jpg,O107,Anormal,Cancer ,,n
+Colpo_benign_396.jpg,O106,Anormal,LIEAG,,aw
+Colpo_benign_401.jpg,O105,Anormal,Cancer ,,m
+Colpo_benign_416.jpg,O104,Anormal,LIEBG,,av
+Colpo_benign_421.jpg,O103,Anormal,LIEBG,,m
+Colpo_benign_425.jpg,O102,Normal ,,,aw
+Colpo_benign_441.jpg,O101,Normal ,mala foto,,aw
+Colpo_benign_446.jpg,O100,Normal ,,,aw
+Colpo_benign_454.jpg,O99,Normal ,,,
+Colpo_benign_469.jpg,O98,Anormal,LIEAG MALA FOTO,,
+Colpo_benign_47.jpg,O97,Normal ,mala foto,,m
+Colpo_benign_470.jpg,O96,Anormal,LIEBG,,m
+Colpo_benign_471.jpg,O95,Anormal,Cancer ,,aw
+Colpo_benign_478.jpg,O94,Normal ,,,av
+Colpo_benign_48.jpg,O93,Anormal,mala foto,,m
+Colpo_benign_481.jpg,O92,Normal ,,,aw
+Colpo_benign_484.jpg,O91,Anormal,LIEBG,,av
+Colpo_benign_497.jpg,O90,Normal ,,,
+Colpo_benign_513.jpg,O89,Normal ,,,av
+Colpo_benign_516.jpg,O88,Normal ,,,aw
+Colpo_benign_518.jpg,O87,Anormal,LIEBG,,p
+Colpo_benign_523.jpg,O86,Anormal,LIEBG MALA FOTO,,
+Colpo_benign_531.jpg,O85,Anormal,LIEAG,,n
+Colpo_benign_532.jpg,O84,Normal ,,,n
+Colpo_benign_536.jpg,O83,Normal ,,,n
+Colpo_benign_55.jpg,O82,Anormal,LIEBG,,p
+Colpo_benign_550.jpg,O81,Anormal,LIEAG,,aw
+Colpo_benign_551.jpg,O80,Normal ,mala foto,,m
+Colpo_benign_553.jpg,O79,Anormal,LIEBG MALA FOTO,,aw
+Colpo_benign_558.jpg,O78,Anormal,LIEBG,,aw
+Colpo_benign_560.jpg,O77,Normal ,,,m
+Colpo_benign_562.jpg,O76,Normal ,,,av
+Colpo_benign_57.jpg,O75,Anormal,LIEBG,,av
+Colpo_benign_576.jpg,O74,Normal ,,,av
+Colpo_benign_578.jpg,O73,Anormal,LIEBG,,aw
+Colpo_benign_579.jpg,O72,Normal ,,,aw
+Colpo_benign_580.jpg,O71,Anormal,LIEBG,,aw
+Colpo_benign_582.jpg,O70,Normal ,mala foto,,aw
+Colpo_benign_583.jpg,O69,Normal ,Atrofia ,,aw
+Colpo_benign_593.jpg,O68,Normal ,mala foto,,aw
+Colpo_benign_596.jpg,O67,Normal ,,,av
+Colpo_benign_605.jpg,O66,Anormal,mala foto,,aw
+Colpo_benign_620.jpg,O65,Normal ,mala foto,,aw
+Colpo_benign_623.jpg,O64,Normal ,mala foto,,av
+Colpo_benign_624.jpg,O63,Normal ,mala foto,,n
+Colpo_benign_641.jpg,O62,Anormal,LIEBG,,
+Colpo_benign_643.jpg,O61,Anormal,LIEAG,,
+Colpo_benign_645.jpg,O60,Normal ,mala foto,,m
+Colpo_benign_649.jpg,O59,Anormal,LIEBG,,m
+Colpo_benign_653.jpg,O58,Anormal,LIEBG,,p
+Colpo_benign_660.jpg,O57,Anormal,LIEAG,,n
+Colpo_benign_663.jpg,O56,Normal ,,,m
+Colpo_benign_667.jpg,O55,Normal ,mala foto,,p
+Colpo_benign_668.jpg,O54,Normal ,mala foto,,aw
+Colpo_benign_677.jpg,O53,Normal ,,,n
+Colpo_benign_683.jpg,O52,Normal ,,,a
+Colpo_benign_685.jpg,O51,Anormal,LIEAG MALA FOTO,,
+Colpo_benign_7.jpg,O50,Anormal,LIEBG,,
+Colpo_benign_700.jpg,O49,Anormal,LIEBG MALA FOTO,,n
+Colpo_benign_708.jpg,O48,Normal ,,,
+Colpo_benign_709.jpg,O47,Anormal,LIEAG MALA FOTO,,
+Colpo_benign_710.jpg,O46,Normal ,mala foto,,aw
+Colpo_benign_713.jpg,O45,Normal ,mala foto,,p
+Colpo_benign_725.jpg,O44,Anormal,LIEBG,,m
+Colpo_benign_727.jpg,O43,Normal ,mala foto,,
+Colpo_benign_732.jpg,O42,Anormal,LIEBG,,aw
+Colpo_benign_739.jpg,O41,Anormal,LIEAG,,aw
+Colpo_benign_745.jpg,O40,Normal ,,,m
+Colpo_benign_759.jpg,O39,Anormal,LIEBG,,aw
+Colpo_benign_763.jpg,O38,Normal ,,,m
+Colpo_benign_764.jpg,O37,Normal ,,,av
+Colpo_benign_765.jpg,O36,Normal ,mala foto,,m
+Colpo_benign_769.jpg,O35,Anormal,LIEAG,,av
+Colpo_benign_779.jpg,O34,Anormal,LIEAG,,av
+Colpo_benign_783.jpg,O33,Normal ,,,m
+Colpo_benign_787.jpg,O32,Anormal,LIEAG,,aw
+Colpo_benign_791.jpg,O31,Normal ,Atrofia ,,aw
+Colpo_benign_802.jpg,O30,Anormal,LIEBG,,p
+Colpo_benign_809.jpg,O29,Normal ,Atrofia ,,m
+Colpo_benign_81.jpg,O28,Normal ,,,m
+Colpo_benign_810.jpg,O27,Normal ,,,aw
+Colpo_benign_817.jpg,O26,Normal ,,,n
+Colpo_benign_821.jpg,O25,Anormal,LIEBG MALA FOTO,,m
+Colpo_benign_833.jpg,O24,Anormal,LIEBG,,aw
+Colpo_benign_836.jpg,O23,Normal ,,,n
+Colpo_benign_842.jpg,O22,Normal ,mala foto,,m
+Colpo_benign_855.jpg,O21,Anormal,LIEAG,,aw
+Colpo_benign_879.jpg,O20,Normal ,,,aw
+Colpo_benign_880.jpg,O19,Anormal,LIEBG,,m
+Colpo_benign_887.jpg,O18,Normal ,inflamatorio,,aw
+Colpo_benign_889.jpg,O17,Normal ,,,m
+Colpo_benign_890.jpg,O16,Normal ,mala foto,,
+Colpo_benign_895.jpg,O15,Anormal,LIEBG,,m
+Colpo_benign_901.jpg,O14,Anormal,LIEBG,,aw
+Colpo_benign_908.jpg,O13,Anormal,LIEAG,,aw
+Colpo_benign_917.jpg,O12,Anormal,LIAG,,p
+Colpo_benign_918.jpg,O11,Anormal,LIEAG MALA FOTO,,m
+Colpo_benign_920.jpg,O10,Normal ,,,m
+Colpo_benign_921.jpg,O09,Anormal,LIAG,,aw
+Colpo_benign_928.jpg,O08,Normal ,,,p
+Colpo_benign_930.jpg,O07,Normal ,,,aw
+Colpo_benign_96.jpg,O06,Normal ,inflamatorio,,aw
+Colpo_benign_965.jpg,O05,Anormal,LIAG,,aw
+Colpo_benign_972.jpg,O04,Normal ,,,av
+Colpo_benign_977.jpg,O03,Anormal,LIEAG,,m
+Colpo_benign_984.jpg,O02,Anormal,LIEAG,,aw
+Colpo_benign_991.jpg,O01,Anormal,LIEBG,,n
+Colpo_benign_998.jpg,,,,,aw
+,,,,,

@@ -1,0 +1,2 @@
+Modelo,Test Accuracy,Test Loss,Total Muestras,Reales Normal (0),Reales Anormal (1),Predicho Normal (0),Predicho Anormal (1)
+MobileNetV2,0.5203,0.7396,419,242,177,227,192

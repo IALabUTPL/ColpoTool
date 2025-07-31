@@ -1,0 +1,2 @@
+Modelo,Test Accuracy,Test Loss,Total Muestras,Reales Normal (0),Reales Anormal (1),Predicho Normal (0),Predicho Anormal (1)
+CNN_Personalizado,0.5776,0.6802,419,242,177,419,0
