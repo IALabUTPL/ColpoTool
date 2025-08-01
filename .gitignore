@@ -44,3 +44,8 @@ Thumbs.db
 *.zip
 *.tar.gz
 node_modules
+
+# Modelos IA grandes
+*.h5
+*.pth
+*.pt
