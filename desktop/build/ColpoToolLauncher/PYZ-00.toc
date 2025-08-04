@@ -1,4 +1,5 @@
-('D:\\Users\\Isra\\Documents\\COLPOTOOL\\ColpoTool\\desktop\\build\\ColpoToolLauncher\\PYZ-00.pyz',
+('D:\\Users\\Isra\\Documents\\COLPOTOOL\\ColpoTool IA '
+ 'LAB\\colpotool\\DESKTOP\\build\\ColpoToolLauncher\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\Isra\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),
@@ -34,6 +35,9 @@
    'PYMODULE'),
   ('calendar',
    'C:\\Users\\Isra\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Isra\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\configparser.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Users\\Isra\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',
@@ -349,6 +353,11 @@
    'PYMODULE'),
   ('urllib.response',
    'C:\\Users\\Isra\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('utils', '-', 'PYMODULE'),
+  ('utils.git_utils',
+   'D:\\Users\\Isra\\Documents\\COLPOTOOL\\ColpoTool IA '
+   'LAB\\colpotool\\DESKTOP\\utils\\git_utils.py',
    'PYMODULE'),
   ('webbrowser',
    'C:\\Users\\Isra\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py',
